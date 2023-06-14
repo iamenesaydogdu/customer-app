@@ -13,7 +13,7 @@ const DeleteButton = styled.button `
 `; */
 
 const CustomerItem = ({ customer, handleDelete }) => {
-  console.log(styles);
+
 
   return (
     <li className={styles.customerItem}>
